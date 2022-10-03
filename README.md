@@ -1,0 +1,8 @@
+![footer](https://user-images.githubusercontent.com/113463671/193654924-3e4c3772-6457-4714-af8b-cde9998875a4.png)
+![home](https://user-images.githubusercontent.com/113463671/193654934-762b3eb3-691d-482a-bbfe-05740f722ba5.png)
+![resume](https://user-images.githubusercontent.com/113463671/193654950-0d86bd5d-67cf-4981-85ab-de47dee5e0e9.png)
+![service](https://user-images.githubusercontent.com/113463671/193654952-042ad300-e910-46b7-890a-94de65342948.png)
+![skills](https://user-images.githubusercontent.com/113463671/193654954-06683c35-2a28-438b-9c75-fe29315edeb4.png)
+![about](https://user-images.githubusercontent.com/113463671/193654956-6f1aeee0-9a5d-430a-ba0b-0b13cb946dfc.png)
+![contact](https://user-images.githubusercontent.com/113463671/193654960-f350f915-3e93-4127-a44b-fc2a618c238b.png)
+![facts](https://user-images.githubusercontent.com/113463671/193654964-f206803e-9c9f-48b0-83ea-c3a0813e178f.png)
